@@ -2,6 +2,5 @@
 
 Detect and decode oracle 12+ keys sent over the net. OPEN CL external libraries used and modified (MIT License)
 
-execute the sniffer to send data to serverup
-
-then execute ora12_50.py for help
+First execute the sniffer and serverup
+then execute ora12_50.py (online help)
