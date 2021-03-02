@@ -5,6 +5,7 @@ Detect and decode oracle 12+ keys sent over the net. OPEN CL external libraries 
 First execute the sniffer and serverup
 then execute ora12_50.py (online help)
 
+Rate is about 100000 passwords in 1 minute with Geforce FX 1650 Super
 OPENCL hashing  could be optimized, it could be run in a unique kernel. A lot of work required
 
 **File sniffer.py** 
